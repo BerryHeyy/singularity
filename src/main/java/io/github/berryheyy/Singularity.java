@@ -19,7 +19,6 @@ public class Singularity implements ModInitializer
         Singularity.INSTANCE = this;
         LOGGER.info("Initializing.");
 
-        
     }
     
 }
